@@ -1,5 +1,9 @@
 🚌 Smart Bus Pass Issuing System
 
+ROLL NO. 16 - Ashish Shukla 
+17 - Shlok Shukla 
+18 - Shweta Shukla
+
 A web-based application built using Flask + MySQL that allows users to apply for a bus pass online. This project simplifies the traditional bus pass issuing process by digitizing form submission, route handling, and pass generation.
 
 📌 Features
